@@ -34,5 +34,4 @@ The system is made up of the following main tables:
 
 > A full **ERD (Entity-Relationship Diagram)** is included in the repository as `Church_evang.pdf`.
 
-## 📂 Project Structure
 
